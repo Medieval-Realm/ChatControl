@@ -32,7 +32,10 @@
 			<id>jitpack.io</id>
 			<url>https://jitpack.io</url>
 		</repository>
-
+		<repository>
+			<id>roinujnosde-repo</id>
+			<url>https://repo.roinujnosde.me/releases/</url>
+		</repository>
 
 		<repository>
 			<id>simonsators Repo</id>
