@@ -27,6 +27,22 @@
 		    <id>papermc</id>
 		    <url>https://repo.papermc.io/repository/maven-public/</url>
 		</repository>
+
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+
+
+		<repository>
+			<id>simonsators Repo</id>
+			<url>https://simonsator.de/repo</url>
+		</repository>
+		<repository>
+			<id>alessiodp-repo</id>
+			<url>https://repo.alessiodp.com/releases/</url>
+		</repository>
+
 	</repositories>
 
 	<properties>

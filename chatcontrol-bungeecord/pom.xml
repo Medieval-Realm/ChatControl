@@ -40,25 +40,23 @@
 
 		<!-- Premium dependencies, stored locally -->
 		<dependency>
-			<groupId>org.mineacademy.plugin</groupId>
-			<artifactId>RedisBungee-BungeeCord</artifactId>
-			<version>1</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/library/RedisBungee-Proxy-Bungee-0.12.6-all.jar</systemPath>
+			<groupId>com.github.ProxioDev.ValioBungee</groupId>
+			<artifactId>RedisBungee-Bungee</artifactId>
+			<version>0.12.6</version>
+			<scope>provided</scope>
 		</dependency>
+
 		<dependency>
-			<groupId>org.mineacademy.plugin</groupId>
+			<groupId>de.simonsator</groupId>
 			<artifactId>BungeecordPartyAndFriends</artifactId>
-			<version>1</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/library/BungeecordPartyAndFriends-1.0.94.jar</systemPath>
+			<version>1.0.93</version>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.mineacademy.plugin</groupId>
-			<artifactId>Parties</artifactId>
-			<version>1</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/library/Parties-3.2.16.jar</systemPath>
+			<groupId>com.alessiodp.parties</groupId>
+			<artifactId>parties-api</artifactId>
+			<version>3.2.16</version>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 
